@@ -8,4 +8,5 @@
 | M3S2 | [CPT202](https://github.com/Xyu-Chern/XJTLU_CPT202) - [CPT204](https://github.com/Xyu-Chern/XJTLU_CPT204) - [CPT208](https://github.com/Xyu-Chern/XJTLU_CPT208) - [INT202](https://github.com/Xyu-Chern/XJTLU_INT202) |
 | M4S1 | [INT301](https://github.com/Xyu-Chern/XJTLU_INT301)  - [INT303](https://github.com/Xyu-Chern/XJTLU_INT303)  - [INT305](https://github.com/Xyu-Chern/XJTLU_INT305) |
 | SURF | [2023](https://github.com/Xyu-Chern/SURF_2023) - [2024](https://github.com/Xyu-Chern/SURF_2024) - [2025](https://github.com/Dcyaprogrammer/SURF-2025) 
+| Others | [United_States_CS_Application](https://github.com/Xyu-Chern/XJTLU_CS_Application) |
 
